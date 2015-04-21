@@ -1,0 +1,3 @@
+Download PL2303_Prolific_DriverInstaller_v1_10_0_20140925.zip from:
+http://www.prolific.com.tw/UserFiles/files/PL2303_Prolific_DriverInstaller_v1_10_0_20140925.zip
+unzip then run PL2303_Prolific_DriverInstaller_v1.10.0.exe

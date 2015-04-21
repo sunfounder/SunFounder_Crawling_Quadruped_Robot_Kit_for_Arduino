@@ -1,1 +1,3 @@
+Download arduino-1.0.6-windows.exe from:
 http://downloads.arduino.cc/arduino-1.0.6-windows.exe
+then run
